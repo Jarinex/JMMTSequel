@@ -1,0 +1,13 @@
+{
+    "Id": "WrathTweakMod",
+    "DisplayName": "World Wound Encounters",
+    "Author": "Coding by Jarinex, Cleanup and Prebuff Coding by Bubble, Original Code by Holic75, Assitance from Spacehamster and Hambeard",
+    "Version": "0.0.1",
+    "ManagerVersion": "0.0.1",
+    "Requirements": "",
+    "AssemblyName": "WrathTweakMod.dll",
+    "HomePage": "",
+    "LoadAfter": [  ],
+    "HarmonyBefore": [ ],
+    "EntryMethod": "WrathTweakMod.Main.Load"
+}
